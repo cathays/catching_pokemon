@@ -1,4 +1,5 @@
 # Catching Pokemon
+### Written by Louis Wain
 ### Methods Used
 I've used two methods in which to query the API and handle the pagination. The first method I used
 was to make requests in a loop until there were no more pages left. As long as `while url` was true,
